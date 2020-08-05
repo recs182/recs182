@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a brazilian frontend architect based at porto alegre currently working at **Santander Merchant Platform Solutions**.
+I'm a brazilian **front-end architect** based at porto alegre currently working at **Santander Merchant Platform Solutions**.
 
 ### Find me around
 - Just liking things <a href="https://www.twitter.com/recs182">Twitter</a>
