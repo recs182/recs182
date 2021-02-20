@@ -6,7 +6,6 @@ Currently based at Porto Alegre/Brazil working at **Santander Merchant Platform 
 #### Find me around
 
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/recs182/)
-[<img src="https://img.shields.io/badge/woodlie%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/woodlie)
 [<img src="https://img.shields.io/badge/recs182%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://www.twitter.com/recs182)
 [<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/5779912/renan-cardoso-soares)
 
