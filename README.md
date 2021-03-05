@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a software architect focused in frontend, graduated in Graphic Design at Passo Fundo University.
-Currently based at Porto Alegre/Brazil working at **Santander Merchant Platform Solutions**.
+Currently based at Porto Alegre/Brazil working at **Santander PagoNxt Platform Solutions**.
 
 #### Find me around
 
