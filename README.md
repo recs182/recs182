@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there.
 
 [![Linkedin badge](https://img.shields.io/badge/LinkedIn-recs182-informational?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/recs182/)](https://www.linkedin.com/in/recs182/)
 [![Twitter badge](https://img.shields.io/badge/Twitter-recs182-informational?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/recs182/)](https://www.twitter.com/recs182/)
@@ -10,4 +10,4 @@ Currently based at Porto Alegre/Brazil working at **Santander Getnet PagoNxt Pla
 
 - 📚 Degree in Graphic Design / Solutions Architect MBA on course
 - 🌍 Languages: Portuguese, English & learning Spanish
-- 💻 Techs: Javascript, TypeScript, NodeJS, ReactJS, NestJS, AngularJS, CSS/SASS, PHP, MySQL, MongoDB, Java...
+- 💻 Techs: Javascript, TypeScript, NodeJS, ReactJS, NestJS, AngularJS, CSS/SASS, PHP, MySQL, MongoDB, Java & learning more
