@@ -3,8 +3,8 @@
 [![Linkedin badge](https://img.shields.io/badge/LinkedIn-recs182-informational?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/recs182/)](https://www.linkedin.com/in/recs182/)
 [![Twitter badge](https://img.shields.io/badge/Twitter-recs182-informational?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/recs182/)](https://www.twitter.com/recs182/)
 
-I'm a software architect focused in frontend solutions.<br />
-Currently based at Porto Alegre/Brazil working remote at [**Santander Getnet PagoNxt Platform Solutions**](https://www.pagonxt.com/home).
+I'm currently working as a Senior Frontend Developer but my previous role was Software Architect focused in frontend solutions.<br />
+Currently based at Porto Alegre/Brazil working remote at [**Uphill Health**](https://uphillhealth.com).
 
 ---
 
