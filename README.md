@@ -8,6 +8,6 @@ If you want to see my previous experiences:<br />
 
 ---
 
-- 📚 Degree in Graphic Design / Solutions Architect MBA on course
+- 📚 Degree in Graphic Design / Solutions Architect MBA
 - 🌍 Languages: Portuguese, English & learning Spanish
 - 💻 Tech Stack: Javascript, TypeScript, NodeJS, ReactJS, Next.js, Styled-components, NestJS, Rxjs, Docker, Kubernetes, AngularJS, CSS/SASS, PHP, MySQL, MongoDB, Java & learning more
