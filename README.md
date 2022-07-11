@@ -1,6 +1,6 @@
 ## Hello there.
 
-I'm currently working remote as a **Senior Frontend Developer** from Porto Alegre/Brazil at [**Uphill Health**](https://uphillhealth.com).
+I'm currently working as a **Senior Frontend Developer** at [**Uphill Health**](https://uphillhealth.com).
 <br />
 
 If you want to see my previous experiences:<br />
