@@ -12,10 +12,10 @@ I'm currently working as a **Senior Frontend Developer** at [**Uphill Health**](
 > Degree in Graphic Design <br />
 > Solutions Architect MBA
 
-🌍 Languages
-> Portuguese, English <br />
-> Learning French and Spanish
-
 💻 Tech Stack
 > Javascript, TypeScript, NodeJS, React, NextJS, Stitches, Styled-components, NestJS, Rxjs <br />
 > Docker, Kubernetes, AngularJS, CSS/SASS, PHP, MySQL, MongoDB, Java & learning more
+
+🌍 Languages
+> Portuguese, English <br />
+> Learning French and Spanish
