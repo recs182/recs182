@@ -18,4 +18,3 @@ I'm currently working as a **Senior Frontend Developer** at [**Uphill Health**](
 
 🌍 Languages
 > Portuguese, English <br />
-> Learning French and Spanish
