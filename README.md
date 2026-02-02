@@ -1,6 +1,5 @@
 ## Hello there.
 
-I'm currently working as a **Senior Frontend Developer** at [**Uphill Health**](https://uphillhealth.com) 🇵🇹.
 <br />
 
 > If you want to see my previous experiences:<br />
@@ -14,7 +13,7 @@ I'm currently working as a **Senior Frontend Developer** at [**Uphill Health**](
 
 💻 Tech Stack
 > Javascript, TypeScript, NodeJS, React, NextJS, Stitches, Styled-components, NestJS, Rxjs <br />
-> Docker, Kubernetes, AngularJS, CSS/SASS, PHP, MySQL, MongoDB, Java & learning more
+> AWS, Docker, Kubernetes, AngularJS, TanStack, CSS/SASS, PHP, MySQL & learning more
 
 🌍 Languages
 > Portuguese, English <br />
